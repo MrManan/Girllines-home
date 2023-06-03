@@ -19,7 +19,7 @@ export default function Breadcrumbs() {
                   New Arrivels
                 </li>{" "}
                 <li className="breadcrumb-item active" aria-current="page">
-                  Water Bottles
+                  Water Bottle
                 </li>
               </ol>
             </nav>
