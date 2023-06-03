@@ -3,7 +3,6 @@ import img2 from "../assets/images/pic3.jfif";
 import img3 from "../assets/images/pic4.jpg";
 import img4 from "../assets/images/pic5.jpg";
 import img5 from "../assets/images/pic3.jfif";
-import img6 from "../assets/images/pic1.jpg";
 
 const Images = [
   {
